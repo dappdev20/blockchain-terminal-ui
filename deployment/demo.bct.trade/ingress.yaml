@@ -1,0 +1,34 @@
+apiVersion: extensions/v1beta1
+kind: Ingress
+metadata:
+  name: terminal-ui-develop
+  namespace: default
+spec:
+  rules:
+    - host: release-candidate.bct.trade
+      http:
+        paths:
+          - backend:
+              serviceName: terminal-ui-develop
+              servicePort: 80
+            path: /
+          - backend:
+              serviceName: fiat-price-service
+              servicePort: 80
+            path: /price
+    - host: demo.bct.trade
+      http:
+        paths:
+          - backend:
+              serviceName: terminal-ui-develop
+              servicePort: 80
+            path: /
+          - backend:
+              serviceName: fiat-price-service
+              servicePort: 80
+            path: /price
+  tls:
+    - hosts:
+        - release-candidate.bct.trade
+        - demo.bct.trade
+      secretName: wildcard-bct-trade

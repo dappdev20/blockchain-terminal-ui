@@ -1,0 +1,15 @@
+apiVersion: v1
+data:
+  config.js: |
+    window.REACT_APP_WS_MARKET_HOST="market-data.bct.trade"
+    window.REACT_APP_WS_MARKET_PORT=443
+    window.REACT_APP_WS_PUBLIC_HOST="ws-public.bct.trade"
+    window.REACT_APP_WS_PUBLIC_PORT=443
+    window.REACT_APP_WS_PRIVATE_HOST="ws-private.bct.trade"
+    window.REACT_APP_WS_PRIVATE_PORT=443
+    window.REACT_APP_HISTORICAL_DATA_URL="https://rest.qa.bct.trade/api/getDataForPeriod?tsBeg=@tsBeg&tsEnd=@tsEnd&interval=@interval&exchangeId=@exchangeId&marketId=@marketId"
+    window.REACT_APP_IMAGE_SERVER_URL="https://storage.googleapis.com/bct-minicharts/charts"
+kind: ConfigMap
+metadata:
+  name: config-develop
+  namespace: default

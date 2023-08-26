@@ -1,0 +1,7 @@
+node_modules
+.gitignore
+.git
+deployment
+.gitlab-ci.yml
+.cache
+package-lock.json

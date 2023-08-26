@@ -1,0 +1,110 @@
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  annotations:
+    keel.sh/pollSchedule: '@every 1m'
+    reloader.stakater.com/auto: 'true'
+  labels:
+    keel.sh/match-tag: 'true'
+    keel.sh/policy: force
+    keel.sh/trigger: poll
+  name: terminal-ui-develop
+  namespace: default
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: terminal-ui
+      feature: develop
+  template:
+    metadata:
+      labels:
+        app: terminal-ui
+        feature: develop
+    spec:
+      containers:
+        - image: 791495472660.dkr.ecr.us-west-2.amazonaws.com/trading/blockchain-terminal-ui:develop
+          imagePullPolicy: Always
+          livenessProbe:
+            failureThreshold: 3
+            httpGet:
+              path: /
+              port: 80
+              scheme: HTTP
+            initialDelaySeconds: 10
+            periodSeconds: 10
+            successThreshold: 1
+            timeoutSeconds: 10
+          name: terminal-ui
+          ports:
+            - containerPort: 80
+              name: http
+              protocol: TCP
+          readinessProbe:
+            failureThreshold: 3
+            httpGet:
+              path: /
+              port: 80
+              scheme: HTTP
+            initialDelaySeconds: 5
+            periodSeconds: 10
+            successThreshold: 1
+            timeoutSeconds: 10
+          resources:
+            limits:
+              cpu: 100m
+              memory: 200Mi
+            requests:
+              cpu: 20m
+              memory: 55M
+          volumeMounts:
+            - mountPath: /config/
+              name: bct-config
+        - image: 791495472660.dkr.ecr.us-west-2.amazonaws.com/trading/blockchain-terminal-payapp:master
+          imagePullPolicy: Always
+          env:
+            - name: LISTEN_PORT
+              value: '81'
+          livenessProbe:
+            failureThreshold: 3
+            httpGet:
+              path: /
+              port: 81
+              scheme: HTTP
+            initialDelaySeconds: 10
+            periodSeconds: 10
+            successThreshold: 1
+            timeoutSeconds: 10
+          name: payapp-ui
+          ports:
+            - containerPort: 81
+              name: http
+              protocol: TCP
+          readinessProbe:
+            failureThreshold: 3
+            httpGet:
+              path: /
+              port: 81
+              scheme: HTTP
+            initialDelaySeconds: 5
+            periodSeconds: 10
+            successThreshold: 1
+            timeoutSeconds: 10
+          resources:
+            limits:
+              cpu: 100m
+              memory: 200Mi
+            requests:
+              cpu: 20m
+              memory: 55M
+          volumeMounts:
+            - mountPath: /config/
+              name: bct-config
+      volumes:
+        - configMap:
+            defaultMode: 420
+            items:
+              - key: config.js
+                path: config.js
+            name: config-develop
+          name: bct-config

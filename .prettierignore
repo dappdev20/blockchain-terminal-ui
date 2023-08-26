@@ -1,0 +1,5 @@
+bundle.js
+build/
+node_modules/
+src/config/polyfills.js
+src/__tests__/

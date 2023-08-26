@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23.97" height="24" viewBox="0 0 23.97 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #bfc0c0;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="tool-cross" class="cls-1" d="M1080.66,219.663h10.66v10.665a0.665,0.665,0,1,0,1.33,0V219.663h10.67a0.666,0.666,0,0,0,0-1.332h-10.67V207.667a0.665,0.665,0,1,0-1.33,0v10.664h-10.66A0.666,0.666,0,1,0,1080.66,219.663Z" transform="translate(-1080 -207)"/>
+</svg>

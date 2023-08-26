@@ -1,0 +1,62 @@
+version: "3"
+services:
+  self-signed-certificate-generator:
+    image: magnitus/certificate-generator:latest
+    environment:
+      COUNTRY: US
+      STATE: New York
+      CITY: New York City
+      ORGANIZATION: Any
+      DEPARTMENT: IT
+      EMAIL: dev@bct.trade
+      DOMAINS: dev.bct.trade
+      CERTIFICATE_DURATION: 3650
+      KEY_FILE: ""
+      CSR_FILE: ""
+      CERTIFICATE_FILE: ""
+      OUTPUT_CERTIFICATE_INFO: "true"
+    volumes:
+      - ./.cache/tls/:/opt/output
+
+  nginx:
+    image: nginx:latest
+    container_name: bct-nginx-tls-reverse-proxy
+    links:
+      - bct-development
+    networks:
+      - development
+    # logging:
+    #   driver: "none"
+    volumes:
+      - ./deployment/nginx-dev.conf:/etc/nginx/conf.d/default.conf
+      - ./.cache/tls/:/tls
+    ports:
+      - 443:443
+
+  bct-development:
+    image: node:8.14.1-alpine
+    container_name: bct-development
+    working_dir: /work
+    command: >
+      sh -c "yarn && yarn start"
+    networks:
+      - development
+    volumes:
+      - ./:/work
+      - ./.cache/node_modules:/work/node_modules
+    environment:
+      PORT: "80"
+      REACT_APP_WS_PUBLIC_HOST: "ws-public.qa.bct.trade"
+      REACT_APP_WS_PUBLIC_PORT: "443"
+      REACT_APP_WS_MARKET_HOST: "ws-market.qa.bct.trade"
+      REACT_APP_WS_MARKET_PORT: "443"
+      REACT_APP_WS_PRIVATE_HOST: "ws-private.qa.bct.trade"
+      REACT_APP_WS_PRIVATE_PORT: "443"
+      REACT_APP_TELEGRAM_AUTH_URL: "https://login.dev.bct.trade/api/login"
+      REACT_APP_TELEGRAM_AUTH_BOT: "DevBCTTradeAuthBot"
+      REACT_APP_HISTORICAL_DATA_URL: "https://rest.qa.bct.trade/api/getDataForPeriod?tsBeg=@tsBeg&tsEnd=@tsEnd&interval=@interval&exchangeId=@exchangeId&marketId=@marketId"
+    expose:
+      - "80"
+
+networks:
+  development:

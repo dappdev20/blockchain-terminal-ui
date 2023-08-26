@@ -1,0 +1,136 @@
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  name: terminal-ui-develop
+  namespace: default
+  labels:
+    keel.sh/policy: force
+    keel.sh/match-tag: "true"
+    keel.sh/trigger: poll
+  annotations:
+    keel.sh/pollSchedule: "@every 1m"
+spec:
+  selector:
+    matchLabels:
+      app: terminal-ui
+      feature: "develop"
+  template:
+    metadata:
+      labels:
+        app: terminal-ui
+        feature: "develop"
+    spec:
+      containers:
+        - image: "791495472660.dkr.ecr.us-west-2.amazonaws.com/trading/blockchain-terminal-ui:develop"
+          imagePullPolicy: Always
+          livenessProbe:
+            failureThreshold: 3
+            httpGet:
+              path: /
+              port: 80
+              scheme: HTTP
+            initialDelaySeconds: 10
+            periodSeconds: 10
+            successThreshold: 1
+            timeoutSeconds: 10
+          name: terminal-ui
+          ports:
+            - containerPort: 80
+              name: http
+              protocol: TCP
+          readinessProbe:
+            failureThreshold: 3
+            httpGet:
+              path: /
+              port: 80
+              scheme: HTTP
+            initialDelaySeconds: 5
+            periodSeconds: 10
+            successThreshold: 1
+            timeoutSeconds: 10
+          resources:
+            limits:
+              cpu: 100m
+              memory: 200Mi
+            requests:
+              cpu: 20m
+              memory: 55M
+          volumeMounts:
+            - mountPath: /config/
+              name: bct-config
+      volumes:
+        - configMap:
+            defaultMode: 420
+            items:
+              - key: config.js
+                path: config.js
+            name: config-develop
+          name: bct-config
+---
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: config-develop
+  namespace: default
+data:
+  config.js: |
+    window.REACT_APP_WS_MARKET_HOST="market-data.bct.trade"
+    window.REACT_APP_WS_MARKET_PORT=443
+    window.REACT_APP_WS_PUBLIC_HOST="ws-public.bct.trade"
+    window.REACT_APP_WS_PUBLIC_PORT=443
+    window.REACT_APP_WS_PRIVATE_HOST="ws-private.bct.trade"
+    window.REACT_APP_WS_PRIVATE_PORT=443
+    window.REACT_APP_HISTORICAL_DATA_URL="https://rest.qa.bct.trade/api/getDataForPeriod?tsBeg=@tsBeg&tsEnd=@tsEnd&interval=@interval&exchangeId=@exchangeId&marketId=@marketId"
+    window.REACT_APP_IMAGE_SERVER_URL="https://storage.googleapis.com/bct-minicharts/charts"
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: terminal-ui-develop
+  namespace: default
+spec:
+  selector:
+    app: terminal-ui
+    feature: "develop"
+  ports:
+    - port: 80
+      targetPort: 80
+---
+apiVersion: extensions/v1beta1
+kind: Ingress
+metadata:
+  annotations:
+    nginx.ingress.kubernetes.io/auth-type: basic
+    nginx.ingress.kubernetes.io/auth-secret: ui-demo-auth
+    nginx.ingress.kubernetes.io/auth-realm: "Authentication Required"
+  name: "terminal-ui-develop"
+  namespace: default
+spec:
+  rules:
+    - host: "release-candidate.bct.trade"
+      http:
+        paths:
+          - backend:
+              serviceName: terminal-ui-develop
+              servicePort: 80
+            path: /
+          - backend:
+              serviceName: fiat-price-service
+              servicePort: 80
+            path: /price
+    - host: "demo.bct.trade"
+      http:
+        paths:
+          - backend:
+              serviceName: terminal-ui-develop
+              servicePort: 80
+            path: /
+          - backend:
+              serviceName: fiat-price-service
+              servicePort: 80
+            path: /price
+  tls:
+    - hosts:
+        - "release-candidate.bct.trade"
+        - "demo.bct.trade"
+      secretName: wildcard-bct-trade

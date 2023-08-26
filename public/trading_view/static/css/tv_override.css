@@ -1,0 +1,7 @@
+/*
+ * This file contains rules that overrides styles defined in tv-chart document
+ */
+
+.loading-indicator {
+    background: #0D112B !important;
+}

@@ -1,0 +1,9 @@
+{
+    "extends": "@istanbuljs/nyc-config-babel",
+     "reporter": [
+       "html",
+       "lcov",
+       "clover"
+     ],
+     "report-dir": "./reports/coverage"
+}

@@ -1,0 +1,189 @@
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  name: terminal-ui-{{ .WHITELABEL_ID }}
+  labels:
+    keel.sh/policy: '{{ default "force" .KEEL_POLICY }}'
+    keel.sh/match-tag: 'true'
+    keel.sh/trigger: poll
+  annotations:
+    keel.sh/pollSchedule: '@every 1m'
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: terminal-ui
+      whitelabel: '{{ .WHITELABEL_ID }}'
+  template:
+    metadata:
+      labels:
+        app: terminal-ui
+        whitelabel: '{{ .WHITELABEL_ID }}'
+    spec:
+      containers:
+        - image: 791495472660.dkr.ecr.us-west-2.amazonaws.com/trading/blockchain-terminal-ui:{{ default "develop" .DOCKER_TAG }}
+          imagePullPolicy: Always
+          livenessProbe:
+            failureThreshold: 3
+            httpGet:
+              path: /
+              port: 80
+              scheme: HTTP
+            initialDelaySeconds: 10
+            periodSeconds: 10
+            successThreshold: 1
+            timeoutSeconds: 10
+          name: terminal-ui
+          ports:
+            - containerPort: 80
+              name: http
+              protocol: TCP
+          readinessProbe:
+            failureThreshold: 3
+            httpGet:
+              path: /
+              port: 80
+              scheme: HTTP
+            initialDelaySeconds: 5
+            periodSeconds: 10
+            successThreshold: 1
+            timeoutSeconds: 10
+          resources:
+            limits:
+              cpu: 100m
+              memory: 200Mi
+            requests:
+              cpu: 20m
+              memory: 55M
+          volumeMounts:
+            - mountPath: /config/
+              name: bct-config
+        - image: 791495472660.dkr.ecr.us-west-2.amazonaws.com/trading/blockchain-terminal-payapp:master
+          imagePullPolicy: Always
+          env:
+            - name: LISTEN_PORT
+              value: '81'
+          livenessProbe:
+            failureThreshold: 3
+            httpGet:
+              path: /
+              port: 81
+              scheme: HTTP
+            initialDelaySeconds: 10
+            periodSeconds: 10
+            successThreshold: 1
+            timeoutSeconds: 10
+          name: payapp-ui
+          ports:
+            - containerPort: 81
+              name: http
+              protocol: TCP
+          readinessProbe:
+            failureThreshold: 3
+            httpGet:
+              path: /
+              port: 81
+              scheme: HTTP
+            initialDelaySeconds: 5
+            periodSeconds: 10
+            successThreshold: 1
+            timeoutSeconds: 10
+          resources:
+            limits:
+              cpu: 100m
+              memory: 200Mi
+            requests:
+              cpu: 20m
+              memory: 55M
+          volumeMounts:
+            - mountPath: /config/
+              name: bct-config
+      volumes:
+        - configMap:
+            defaultMode: 420
+            items:
+              - key: config.js
+                path: config.js
+            name: config-{{ .WHITELABEL_ID }}
+          name: bct-config
+---
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: config-{{ .WHITELABEL_ID }}
+data:
+  config.js: |
+    window.REACT_APP_WS_MARKET_HOST="market-data.bct.trade"
+    window.REACT_APP_WS_MARKET_PORT=443
+    window.REACT_APP_WS_PUBLIC_HOST="ws-public.bct.trade"
+    window.REACT_APP_WS_PUBLIC_PORT=443
+    window.REACT_APP_WS_PRIVATE_HOST="ws-private.bct.trade"
+    window.REACT_APP_WS_PRIVATE_PORT=443
+    window.REACT_APP_HISTORICAL_DATA_URL="https://rest.qa.bct.trade/api/getDataForPeriod?tsBeg=@tsBeg&tsEnd=@tsEnd&interval=@interval&exchangeId=@exchangeId&marketId=@marketId"
+    window.REACT_APP_IMAGE_SERVER_URL="https://storage.googleapis.com/bct-minicharts/charts"
+    window.REACT_APP_Whitelabel_Title="{{ default .WHITELABEL_HOST .WHITELABEL_TITLE }}"
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: terminal-ui-{{ .WHITELABEL_ID }}
+spec:
+  selector:
+    app: terminal-ui
+    whitelabel: '{{ .WHITELABEL_ID }}'
+  ports:
+    - port: 80
+      targetPort: 80
+---
+apiVersion: certmanager.k8s.io/v1alpha1
+kind: Certificate
+metadata:
+  name: '{{ .WHITELABEL_ID }}'
+spec:
+  acme:
+    config:
+      - http01:
+          ingressClass: nginx
+        domains:
+          - '{{ .WHITELABEL_HOST }}'
+  dnsNames:
+    - '{{ .WHITELABEL_HOST }}'
+  issuerRef:
+    kind: ClusterIssuer
+    name: letsencrypt-prod
+  secretName: 'www-{{ .WHITELABEL_ID }}'
+---
+apiVersion: extensions/v1beta1
+kind: Ingress
+metadata:
+  annotations:
+    nginx.ingress.kubernetes.io/auth-type: basic
+    nginx.ingress.kubernetes.io/auth-secret: 'ui-{{ .WHITELABEL_ID }}-auth'
+    nginx.ingress.kubernetes.io/auth-realm: 'Authentication Required'
+  name: 'terminal-ui-{{ .WHITELABEL_ID }}'
+spec:
+  rules:
+    - host: '{{ .WHITELABEL_HOST }}'
+      http:
+        paths:
+          - backend:
+              serviceName: terminal-ui-{{ .WHITELABEL_ID }}
+              servicePort: 80
+            path: /
+          - backend:
+              serviceName: fiat-price-service
+              servicePort: 80
+            path: /price
+  tls:
+    - hosts:
+        - '{{ .WHITELABEL_HOST }}'
+      secretName: 'www-{{ .WHITELABEL_ID }}'
+---
+apiVersion: v1
+data:
+  auth: '{{ .BASIC_AUTH | b64enc }}'
+kind: Secret
+metadata:
+  name: 'ui-{{ .WHITELABEL_ID }}-auth'
+  namespace: default
+type: Opaque

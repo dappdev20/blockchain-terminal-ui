@@ -1,0 +1,3893 @@
+Start at Thursday, January 17, 2019    22:18:18
+=========================================
+
+Registration Info : 
+Unique Info : 883A36BF00000005-4A9486E2
+
+Windows Version:
+Win7 _x64
+Module Info:
+Company: fCoder Solutions Sp. z o.o.
+Product Name: ImageConverter Plus
+Product Version: 9.0.520.170301
+
+CPU Info:
+Mode: x32 bit
+Vendor: GenuineIntel
+Vendor ID: Intel Corporation
+Extended Processor Name: Unknown P6 family
+Procesor Clock Frequecy: 3192
+Logical processors per physical: 16
+Stepping code: 3
+MMX support: yes
+MMX+ support: no
+SSE support: yes
+SSE2 support: yes
+3DNow suppor: no
+3DNow+ suppor: no
+AI64 support: no
+Hyperthreading support: no
+L1 cache size: -1
+L2 cache size: -1
+L3 cache size: -1
+
+Monitor info:
+Color depth: 32 Bits per pixel.
+Pixel Width: 1920
+Pixel Height: 1080
+Refresh frequency: 60 Hz
+
+Internet Explorer Version: 10.0
+Build Number: 10586
+
+Printers list: 
+Send To OneNote 2016
+Microsoft XPS Document Writer
+Microsoft Print to PDF
+Foxit Reader PDF Printer
+Fax
+
+Default printer: 
+Foxit Reader PDF Printer
+
+
+Profile settings:
+
+Operations:
+    new size : 40 40 
+    size units : pixels
+    Horizontal resolution : 72
+    Vertical resolution : 72
+    Resolution units : inches
+    keep original image proportions : yes
+    rescale method : bilinear
+    don't zoom, if source image size smaller : no
+    use original image resolution, in case it is supported : no
+    fit mode : fit_in_size
+    fit alignment : center
+
+Format properties:
+    Extension: png
+    bits per pixel : 32
+    compression level : 9
+    quantization levels : 8
+    dithering : yes
+    use source alpha channel for indexed modes : yes
+
+Save properties:
+    Destination path: F:\exchanges\converted
+    convert with subfolders : yes
+    restore subfolder structure in target folder : yes
+    open target folder after conversion : no
+    create log file in target folder : yes
+
+Target file name properties:
+    Name template: {Title}.{Type}
+    what to do, if file exists : auto_rename
+    delete source images : no
+
+Processing files...
+
+=====================================================================
+
+File 1 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.6 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\3xbit.png
+png, 205x205px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 12892 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\3xbit.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 970 bytes
+
+=====================================================================
+
+File 2 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.6 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\abcc.png
+png, 223x223px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 30591 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\abcc.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1641 bytes
+
+=====================================================================
+
+File 3 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.6 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\abucoins.png
+png, 210x210px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 15862 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\abucoins.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1403 bytes
+
+=====================================================================
+
+File 4 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.6 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\acx.png
+png, 235x235px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 76299 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\acx.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 3487 bytes
+
+=====================================================================
+
+File 5 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.6 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\aidosmarket.png
+png, 182x182px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 22786 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\aidosmarket.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1759 bytes
+
+=====================================================================
+
+File 6 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.6 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\bcex.png
+png, 199x199px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 21273 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\bcex.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1490 bytes
+
+=====================================================================
+
+File 7 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.6 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\bibox.png
+png, 209x209px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 29966 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\bibox.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 2000 bytes
+
+=====================================================================
+
+File 8 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.6 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\bigone.png
+png, 175x175px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 46353 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\bigone.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 3139 bytes
+
+=====================================================================
+
+File 9 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.6 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\binance.png
+png, 166x166px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 20854 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\binance.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 2638 bytes
+
+=====================================================================
+
+File 10 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.6 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\bisq.png
+png, 230x230px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 24261 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\bisq.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1692 bytes
+
+=====================================================================
+
+File 11 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.6 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\bit-z.png
+png, 241x241px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 15159 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\bit-z.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1205 bytes
+
+=====================================================================
+
+File 12 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.5 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\bit2c.png
+png, 196x196px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 64195 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\bit2c.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 3626 bytes
+
+=====================================================================
+
+File 13 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.5 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\bitbank.png
+png, 169x169px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 26117 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\bitbank.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 2397 bytes
+
+=====================================================================
+
+File 14 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.5 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\bitbay.png
+png, 208x208px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 21724 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\bitbay.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1791 bytes
+
+=====================================================================
+
+File 15 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.5 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\bitexbook.png
+png, 182x182px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 24031 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\bitexbook.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 2111 bytes
+
+=====================================================================
+
+File 16 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.5 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\bitfinex.png
+png, 191x191px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 23319 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\bitfinex.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1673 bytes
+
+=====================================================================
+
+File 17 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.5 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\bitflip.png
+png, 228x228px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 42612 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\bitflip.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 2381 bytes
+
+=====================================================================
+
+File 18 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.5 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\bitflyer.png
+png, 215x215px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 8220 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\bitflyer.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1136 bytes
+
+=====================================================================
+
+File 19 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.5 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\bitflyerfx.png
+png, 173x173px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 5582 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\bitflyerfx.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 741 bytes
+
+=====================================================================
+
+File 20 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.5 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\bitforex.png
+png, 230x230px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 20882 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\bitforex.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1433 bytes
+
+=====================================================================
+
+File 21 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.5 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\bitgrail.png
+png, 215x215px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 18969 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\bitgrail.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1160 bytes
+
+=====================================================================
+
+File 22 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.5 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\bithumb.png
+png, 199x199px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 16995 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\bithumb.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1479 bytes
+
+=====================================================================
+
+File 23 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.5 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\bitinfi.png
+png, 168x168px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 27080 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\bitinfi.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 2407 bytes
+
+=====================================================================
+
+File 24 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.5 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\bitkub.png
+png, 199x199px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 10892 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\bitkub.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1029 bytes
+
+=====================================================================
+
+File 25 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.5 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\bitlish.png
+png, 182x182px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 7983 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\bitlish.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1003 bytes
+
+=====================================================================
+
+File 26 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.5 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\bitmarket.png
+png, 175x175px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 22765 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\bitmarket.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 2750 bytes
+
+=====================================================================
+
+File 27 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.5 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\bitmart.png
+png, 162x162px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 20925 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\bitmart.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1854 bytes
+
+=====================================================================
+
+File 28 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.5 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\bitmex.png
+png, 206x206px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 38838 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\bitmex.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 2541 bytes
+
+=====================================================================
+
+File 29 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.5 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\bitsane.png
+png, 230x230px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 90678 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\bitsane.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 3999 bytes
+
+=====================================================================
+
+File 30 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.5 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\bitshares.png
+png, 202x202px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 15391 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\bitshares.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1360 bytes
+
+=====================================================================
+
+File 31 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.4 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\bitso.png
+png, 180x180px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 10108 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\bitso.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1881 bytes
+
+=====================================================================
+
+File 32 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.4 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\bitstamp.png
+png, 160x160px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 7150 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\bitstamp.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 960 bytes
+
+=====================================================================
+
+File 33 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.4 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\bittrex.png
+png, 188x188px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 11871 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\bittrex.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1020 bytes
+
+=====================================================================
+
+File 34 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.4 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\bkex.png
+png, 239x239px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 32481 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\bkex.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1596 bytes
+
+=====================================================================
+
+File 35 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.4 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\bleutrade.png
+png, 175x175px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 5964 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\bleutrade.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1110 bytes
+
+=====================================================================
+
+File 36 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.4 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\bluebelt.png
+png, 176x176px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 6816 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\bluebelt.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1029 bytes
+
+=====================================================================
+
+File 37 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.4 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\braziliex.png
+png, 184x184px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 11269 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\braziliex.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1053 bytes
+
+=====================================================================
+
+File 38 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.4 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\btc-alpha.png
+png, 168x168px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 12795 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\btc-alpha.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1861 bytes
+
+=====================================================================
+
+File 39 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.4 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\btc-exchange.png
+png, 169x169px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 12284 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\btc-exchange.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1434 bytes
+
+=====================================================================
+
+File 40 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.4 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\btc38.png
+png, 227x227px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 20372 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\btc38.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1277 bytes
+
+=====================================================================
+
+File 41 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.4 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\btcbox.png
+png, 203x203px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 27083 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\btcbox.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1643 bytes
+
+=====================================================================
+
+File 42 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.4 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\btcc.png
+png, 235x235px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 43557 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\btcc.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 2505 bytes
+
+=====================================================================
+
+File 43 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.4 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\btcmarkets.png
+png, 169x169px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 11292 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\btcmarkets.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1383 bytes
+
+=====================================================================
+
+File 44 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.4 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\btcturk.png
+png, 179x179px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 6350 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\btcturk.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 993 bytes
+
+=====================================================================
+
+File 45 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.4 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\btcxindia.png
+png, 190x190px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 13087 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\btcxindia.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1431 bytes
+
+=====================================================================
+
+File 46 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.4 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\buda.png
+png, 179x179px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 28618 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\buda.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 2355 bytes
+
+=====================================================================
+
+File 47 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.4 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\bx.in.th.png
+png, 192x192px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 11726 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\bx.in.th.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1440 bytes
+
+=====================================================================
+
+File 48 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.4 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\catex.png
+png, 164x164px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 37069 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\catex.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 3144 bytes
+
+=====================================================================
+
+File 49 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.4 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\ccex.png
+png, 164x164px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 7771 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\ccex.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1288 bytes
+
+=====================================================================
+
+File 50 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.4 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\ccrbx.png
+png, 140x140px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 10666 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\ccrbx.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1747 bytes
+
+=====================================================================
+
+File 51 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.4 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\cex.io.png
+png, 211x211px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 22927 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\cex.io.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1472 bytes
+
+=====================================================================
+
+File 52 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.4 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\chbtc.png
+png, 182x182px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 11876 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\chbtc.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1254 bytes
+
+=====================================================================
+
+File 53 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.4 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\chilebit.png
+png, 185x185px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 14204 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\chilebit.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1788 bytes
+
+=====================================================================
+
+File 54 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.3 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\codex.png
+png, 179x179px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 34762 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\codex.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 2171 bytes
+
+=====================================================================
+
+File 55 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.3 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\coinbase.png
+png, 176x176px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 11482 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\coinbase.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1081 bytes
+
+=====================================================================
+
+File 56 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.3 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\coinbene.png
+png, 190x190px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 35125 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\coinbene.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 2453 bytes
+
+=====================================================================
+
+File 57 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.3 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\coincap.png
+png, 151x162px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 29460 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\coincap.png
+png, 37x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 3128 bytes
+
+=====================================================================
+
+File 58 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.3 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\coincheck.png
+png, 182x182px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 19077 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\coincheck.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1674 bytes
+
+=====================================================================
+
+File 59 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.3 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\coincorner.png
+png, 174x174px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 24772 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\coincorner.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 2039 bytes
+
+=====================================================================
+
+File 60 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.3 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\coindeal.png
+png, 184x184px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 20438 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\coindeal.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1566 bytes
+
+=====================================================================
+
+File 61 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.3 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\coinex.png
+png, 173x173px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 29804 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\coinex.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 2789 bytes
+
+=====================================================================
+
+File 62 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.3 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\coinfalcon.png
+png, 233x233px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 21922 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\coinfalcon.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1404 bytes
+
+=====================================================================
+
+File 63 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.3 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\coinfloor.png
+png, 185x185px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 19711 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\coinfloor.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 2076 bytes
+
+=====================================================================
+
+File 64 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.3 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\coinhub.png
+png, 152x152px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 7478 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\coinhub.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 864 bytes
+
+=====================================================================
+
+File 65 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.3 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\coinjar.png
+png, 252x252px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 25337 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\coinjar.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1241 bytes
+
+=====================================================================
+
+File 66 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.3 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\coinmate.png
+png, 197x197px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 13441 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\coinmate.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1722 bytes
+
+=====================================================================
+
+File 67 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.3 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\coinnest.png
+png, 164x164px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 14954 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\coinnest.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1619 bytes
+
+=====================================================================
+
+File 68 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.3 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\coinone.png
+png, 229x229px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 27225 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\coinone.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 2189 bytes
+
+=====================================================================
+
+File 69 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.3 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\coinpulse.png
+png, 218x217px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 30217 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\coinpulse.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 2631 bytes
+
+=====================================================================
+
+File 70 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.3 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\coinroom.png
+png, 191x191px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 34853 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\coinroom.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 2138 bytes
+
+=====================================================================
+
+File 71 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.3 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\coinsbank.png
+png, 168x168px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 17702 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\coinsbank.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1515 bytes
+
+=====================================================================
+
+File 72 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.3 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\coinsbit.png
+png, 190x180px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 14790 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\coinsbit.png
+png, 40x38px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 2067 bytes
+
+=====================================================================
+
+File 73 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.2 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\cointiger.png
+png, 194x194px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 27355 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\cointiger.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1883 bytes
+
+=====================================================================
+
+File 74 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.2 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\cryptobulls.png
+png, 187x187px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 23983 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\cryptobulls.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1757 bytes
+
+=====================================================================
+
+File 75 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.2 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\cryptoexchangews.png
+png, 174x157px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 15624 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\cryptoexchangews.png
+png, 40x36px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 2844 bytes
+
+=====================================================================
+
+File 76 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.2 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\cryptonit.png
+png, 241x241px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 49595 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\cryptonit.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 2515 bytes
+
+=====================================================================
+
+File 77 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.2 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\cryptopia.png
+png, 190x190px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 15951 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\cryptopia.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1391 bytes
+
+=====================================================================
+
+File 78 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.2 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\cryptox.png
+png, 194x194px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 6734 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\cryptox.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 803 bytes
+
+=====================================================================
+
+File 79 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.2 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\ddex.png
+png, 170x170px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 18997 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\ddex.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1619 bytes
+
+=====================================================================
+
+File 80 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.2 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\dex.top.png
+png, 204x204px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 17112 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\dex.top.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1134 bytes
+
+=====================================================================
+
+File 81 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.2 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\digifinex.png
+png, 258x258px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 46763 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\digifinex.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 2148 bytes
+
+=====================================================================
+
+File 82 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.2 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\dsx.png
+png, 184x184px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 6377 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\dsx.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 679 bytes
+
+=====================================================================
+
+File 83 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.2 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\etherdelta.png
+png, 210x210px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 30616 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\etherdelta.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 3152 bytes
+
+=====================================================================
+
+File 84 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.2 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\ethermium.png
+png, 193x193px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 19339 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\ethermium.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1292 bytes
+
+=====================================================================
+
+File 85 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.2 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\ethexindia.png
+png, 157x157px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 23628 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\ethexindia.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 2423 bytes
+
+=====================================================================
+
+File 86 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.2 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\ethfinex.png
+png, 186x186px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 13098 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\ethfinex.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1210 bytes
+
+=====================================================================
+
+File 87 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.2 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\exenium.png
+png, 191x191px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 12987 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\exenium.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1014 bytes
+
+=====================================================================
+
+File 88 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.2 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\exmo.png
+png, 174x174px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 10680 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\exmo.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1673 bytes
+
+=====================================================================
+
+File 89 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.2 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\exrates.png
+png, 157x157px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 35911 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\exrates.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 3016 bytes
+
+=====================================================================
+
+File 90 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.2 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\extstock.png
+png, 155x155px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 15584 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\extstock.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 2933 bytes
+
+=====================================================================
+
+File 91 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.2 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\exx.png
+png, 203x203px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 11432 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\exx.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1606 bytes
+
+=====================================================================
+
+File 92 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.2 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\fcoin.png
+png, 188x188px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 22571 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\fcoin.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1690 bytes
+
+=====================================================================
+
+File 93 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.2 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\fiscocryptocurrencyexchange.png
+png, 238x238px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 14603 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\fiscocryptocurrencyexchange.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1468 bytes
+
+=====================================================================
+
+File 94 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.2 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\foxbit.png
+png, 206x206px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 9729 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\foxbit.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1323 bytes
+
+=====================================================================
+
+File 95 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.2 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\gate.io.png
+png, 149x149px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 14069 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\gate.io.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1590 bytes
+
+=====================================================================
+
+File 96 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.1 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\gatecoin.png
+png, 155x155px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 10636 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\gatecoin.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1642 bytes
+
+=====================================================================
+
+File 97 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.1 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\gemini.png
+png, 190x190px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 11374 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\gemini.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1218 bytes
+
+=====================================================================
+
+File 98 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.1 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\globitex.png
+png, 233x233px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 44289 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\globitex.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 2239 bytes
+
+=====================================================================
+
+File 99 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.1 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\gneiss.png
+png, 224x224px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 36318 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\gneiss.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 2239 bytes
+
+=====================================================================
+
+File 100 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.1 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\graviex.png
+png, 194x194px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 39523 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\graviex.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 3276 bytes
+
+=====================================================================
+
+File 101 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.1 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\hadax.png
+png, 200x200px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 8360 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\hadax.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1113 bytes
+
+=====================================================================
+
+File 102 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.1 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\hikenex.png
+png, 197x197px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 30590 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\hikenex.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1919 bytes
+
+=====================================================================
+
+File 103 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.1 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\hitbtc.png
+png, 185x185px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 12874 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\hitbtc.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1477 bytes
+
+=====================================================================
+
+File 104 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.1 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\huobi.png
+png, 166x166px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 18671 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\huobi.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1728 bytes
+
+=====================================================================
+
+File 105 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.1 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\huobipro.png
+png, 184x184px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 22577 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\huobipro.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1735 bytes
+
+=====================================================================
+
+File 106 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.1 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\icoinbay.png
+png, 185x185px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 22239 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\icoinbay.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1697 bytes
+
+=====================================================================
+
+File 107 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.1 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\idax.png
+png, 175x175px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 12884 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\idax.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1380 bytes
+
+=====================================================================
+
+File 108 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.1 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\idex.png
+png, 149x149px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 13073 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\idex.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 2569 bytes
+
+=====================================================================
+
+File 109 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.0 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\incorex.png
+png, 210x210px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 9769 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\incorex.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1022 bytes
+
+=====================================================================
+
+File 110 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.0 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\independentreserve.png
+png, 224x224px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 15685 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\independentreserve.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1629 bytes
+
+=====================================================================
+
+File 111 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.0 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\instantbitex.png
+png, 193x193px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 33464 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\instantbitex.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 2524 bytes
+
+=====================================================================
+
+File 112 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.0 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\iqfinex.png
+png, 169x169px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 8404 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\iqfinex.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 955 bytes
+
+=====================================================================
+
+File 113 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.0 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\ironex.png
+png, 212x212px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 14364 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\ironex.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1387 bytes
+
+=====================================================================
+
+File 114 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.0 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\itbit\it.png
+png, 203x203px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 22746 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\itbit\it.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1500 bytes
+
+=====================================================================
+
+File 115 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.0 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\jubi.png
+png, 210x210px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 11207 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\jubi.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 891 bytes
+
+=====================================================================
+
+File 116 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.0 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\korbit.png
+png, 169x169px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 11942 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\korbit.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1850 bytes
+
+=====================================================================
+
+File 117 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.0 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\kraken.png
+png, 223x223px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 16241 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\kraken.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1193 bytes
+
+=====================================================================
+
+File 118 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.0 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\kucoin.png
+png, 188x188px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 24071 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\kucoin.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1767 bytes
+
+=====================================================================
+
+File 119 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.0 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\kuna.png
+png, 186x186px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 27546 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\kuna.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1592 bytes
+
+=====================================================================
+
+File 120 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.0 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\lakebtc.png
+png, 174x174px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 40596 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\lakebtc.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 3435 bytes
+
+=====================================================================
+
+File 121 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.0 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\latoken.png
+png, 197x197px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 13443 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\latoken.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1895 bytes
+
+=====================================================================
+
+File 122 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.0 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\lbank.png
+png, 182x182px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 9076 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\lbank.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1023 bytes
+
+=====================================================================
+
+File 123 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.0 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\liqnet.png
+png, 190x190px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 27856 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\liqnet.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 2225 bytes
+
+=====================================================================
+
+File 124 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.0 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\liqui.png
+png, 182x182px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 6028 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\liqui.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1073 bytes
+
+=====================================================================
+
+File 125 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.0 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\liquid.png
+png, 299x168px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 47096 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\liquid.png
+png, 40x22px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1281 bytes
+
+=====================================================================
+
+File 126 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.0 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\livecoin.png
+png, 175x175px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 59183 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\livecoin.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 3785 bytes
+
+=====================================================================
+
+File 127 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.0 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\localbitcoins.png
+png, 175x175px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 17699 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\localbitcoins.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 2501 bytes
+
+=====================================================================
+
+File 128 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311809.0 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\luno.png
+png, 204x204px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 8360 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\luno.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1008 bytes
+
+=====================================================================
+
+File 129 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311808.9 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\lykke.png
+png, 155x155px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 12501 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\lykke.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1910 bytes
+
+=====================================================================
+
+File 130 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311808.9 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\mercadobitcoin.png
+png, 220x220px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 17330 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\mercadobitcoin.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1869 bytes
+
+=====================================================================
+
+File 131 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311808.9 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\minebit.png
+png, 182x182px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 19993 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\minebit.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1553 bytes
+
+=====================================================================
+
+File 132 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311808.9 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\n.exchange.png
+png, 211x211px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 16539 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\n.exchange.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1627 bytes
+
+=====================================================================
+
+File 133 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311808.9 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\ndax.png
+png, 210x210px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 53299 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\ndax.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 2754 bytes
+
+=====================================================================
+
+File 134 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311808.9 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\nebula.png
+png, 173x173px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 17746 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\nebula.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1998 bytes
+
+=====================================================================
+
+File 135 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311808.9 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\neraex.png
+png, 166x166px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 29785 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\neraex.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 2544 bytes
+
+=====================================================================
+
+File 136 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311808.9 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\nlexch.png
+png, 216x216px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 50828 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\nlexch.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 2926 bytes
+
+=====================================================================
+
+File 137 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311808.9 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\novaexchange.png
+png, 214x83px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 21478 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\novaexchange.png
+png, 40x16px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1707 bytes
+
+=====================================================================
+
+File 138 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311808.9 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\okcoin.png
+png, 161x161px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 18519 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\okcoin.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1749 bytes
+
+=====================================================================
+
+File 139 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311808.9 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\okex.png
+png, 173x173px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 18952 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\okex.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1741 bytes
+
+=====================================================================
+
+File 140 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311808.9 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\openledger.png
+png, 215x215px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 19489 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\openledger.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1458 bytes
+
+=====================================================================
+
+File 141 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311808.9 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\ore.png
+png, 236x236px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 21552 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\ore.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1599 bytes
+
+=====================================================================
+
+File 142 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311808.9 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\p2pb2b.png
+png, 185x185px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 33883 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\p2pb2b.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 2446 bytes
+
+=====================================================================
+
+File 143 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311808.9 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\paymium.png
+png, 199x199px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 17737 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\paymium.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1679 bytes
+
+=====================================================================
+
+File 144 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311808.9 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\poloniex.png
+png, 146x146px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 11082 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\poloniex.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1302 bytes
+
+=====================================================================
+
+File 145 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311808.9 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\quadrigacx.png
+png, 196x196px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 38186 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\quadrigacx.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 2616 bytes
+
+=====================================================================
+
+File 146 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311808.9 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\quoine.png
+png, 176x176px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 6198 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\quoine.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 989 bytes
+
+=====================================================================
+
+File 147 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311808.9 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\remitano.png
+png, 193x193px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 14754 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\remitano.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1187 bytes
+
+=====================================================================
+
+File 148 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311808.9 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\rightbtc.png
+png, 166x166px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 24759 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\rightbtc.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 2183 bytes
+
+=====================================================================
+
+File 149 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311808.9 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\safe.trade.png
+png, 215x212px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 52485 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\safe.trade.png
+png, 40x39px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 3171 bytes
+
+=====================================================================
+
+File 150 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311808.9 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\satangpro.png
+png, 307x104px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 16462 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\satangpro.png
+png, 40x14px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1341 bytes
+
+=====================================================================
+
+File 151 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311808.9 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\simex.png
+png, 176x176px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 12366 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\simex.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 2155 bytes
+
+=====================================================================
+
+File 152 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311808.8 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\singularityx.png
+png, 187x187px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 9205 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\singularityx.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 930 bytes
+
+=====================================================================
+
+File 153 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311808.8 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\stex.png
+png, 234x234px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 5850 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\stex.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 744 bytes
+
+=====================================================================
+
+File 154 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311808.8 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\stocksexchange.io.png
+png, 259x259px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 20628 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\stocksexchange.io.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1470 bytes
+
+=====================================================================
+
+File 155 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311808.8 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\surbitcoin.png
+png, 150x150px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 17589 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\surbitcoin.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 2016 bytes
+
+=====================================================================
+
+File 156 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311808.8 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\switcheo.png
+png, 212x212px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 15201 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\switcheo.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1038 bytes
+
+=====================================================================
+
+File 157 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311808.8 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\therocktrading.png
+png, 197x197px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 26993 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\therocktrading.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 2640 bytes
+
+=====================================================================
+
+File 158 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311808.8 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\tidex.png
+png, 191x191px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 5731 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\tidex.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 932 bytes
+
+=====================================================================
+
+File 159 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311808.8 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\tokenomy.png
+png, 188x188px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 65679 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\tokenomy.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 4251 bytes
+
+=====================================================================
+
+File 160 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311808.8 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\tokenstore.png
+png, 209x209px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 32997 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\tokenstore.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 2044 bytes
+
+=====================================================================
+
+File 161 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311808.8 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\tradesatoshi.png
+png, 179x179px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 33722 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\tradesatoshi.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 2672 bytes
+
+=====================================================================
+
+File 162 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311808.8 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\trustdex.png
+png, 223x223px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 44229 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\trustdex.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1886 bytes
+
+=====================================================================
+
+File 163 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311808.8 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\turtledecentralized.png
+png, 260x260px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 107887 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\turtledecentralized.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 3686 bytes
+
+=====================================================================
+
+File 164 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311808.8 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\tuxexchange.png
+png, 172x172px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 14151 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\tuxexchange.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1662 bytes
+
+=====================================================================
+
+File 165 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311808.8 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\unocoin.png
+png, 216x216px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 34271 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\unocoin.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 2481 bytes
+
+=====================================================================
+
+File 166 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311808.8 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\upbit.png
+png, 185x185px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 8509 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\upbit.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1264 bytes
+
+=====================================================================
+
+File 167 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311808.8 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\vaultoro.png
+png, 202x202px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 3190 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\vaultoro.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 645 bytes
+
+=====================================================================
+
+File 168 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311808.8 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\vbtc.png
+png, 168x168px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 27484 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\vbtc.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 2521 bytes
+
+=====================================================================
+
+File 169 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311808.8 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\veloxexchange.png
+png, 168x168px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 19375 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\veloxexchange.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 2528 bytes
+
+=====================================================================
+
+File 170 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311808.8 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\viabtc.png
+png, 192x192px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 38661 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\viabtc.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 3054 bytes
+
+=====================================================================
+
+File 171 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311808.8 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\wavesdex.png
+png, 235x235px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 20930 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\wavesdex.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1093 bytes
+
+=====================================================================
+
+File 172 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311808.8 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\wex.png
+png, 200x200px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 23236 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\wex.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1697 bytes
+
+=====================================================================
+
+File 173 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311808.8 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\worldcryptoexchange.png
+png, 179x179px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 12590 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\worldcryptoexchange.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1462 bytes
+
+=====================================================================
+
+File 174 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311808.8 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\xs2.png
+png, 248x248px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 45711 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\xs2.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 2284 bytes
+
+=====================================================================
+
+File 175 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311808.8 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\yacuna.png
+png, 172x172px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 8368 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\yacuna.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1174 bytes
+
+=====================================================================
+
+File 176 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311808.8 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\yobit.png
+png, 182x182px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 14064 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\yobit.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1367 bytes
+
+=====================================================================
+
+File 177 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311808.7 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\yunbi.png
+png, 200x200px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 15561 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\yunbi.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1654 bytes
+
+=====================================================================
+
+File 178 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311808.7 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\zaif.png
+png, 178x178px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 35564 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\zaif.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 3328 bytes
+
+=====================================================================
+
+File 179 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311808.7 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\zb.png
+png, 198x198px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 39894 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\zb.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 2616 bytes
+
+=====================================================================
+
+File 180 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311808.7 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\zbg.png
+png, 254x254px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 30149 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\zbg.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 1475 bytes
+
+=====================================================================
+
+File 181 of 181
+
+RAM free    :    2048.0 of    2048.0 Mb
+Virtual free:    1718.8 of    2047.9 Mb
+Target free disk space :  311808.7 of  362738.0 Mb
+Temp free disk space   :    3873.2 of    4096.0 Mb
+
+Src info : F:\exchanges\exchanges\zecoex.png
+png, 193x193px, 32bpp, 1 page(s), 150.000000x150.000000 dpi, 74635 bytes
+Load all pages :  ok
+
+Operations:
+Resize :  ok
+
+Save :  ok
+
+Dest info : F:\exchanges\converted\zecoex.png
+png, 40x40px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 4240 bytes
+
+Complete at Thursday, January 17, 2019    22:18:22
+=========================================

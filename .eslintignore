@@ -1,0 +1,6 @@
+bundle.js
+build/
+node_modules/
+src/config/polyfills.js
+src/components/GraphTool/TradingView
+src/__tests__/

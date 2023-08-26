@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1abc9c;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="curr-maker" class="cls-1" d="M701,247a17,17,0,1,0,17,17A17,17,0,0,0,701,247Zm-0.31,23.906h-1.953v-6.457l-6.409-4.64v11.1h-1.953V256.031L700.69,263.5v7.409Zm10.935,0h-1.953v-11.1l-6.409,4.64v6.457H701.31V263.5l10.315-7.466v14.875Z" transform="translate(-684 -247)"/>
+</svg>

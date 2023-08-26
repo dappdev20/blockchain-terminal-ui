@@ -1,0 +1,39 @@
+image: docker:stable
+
+stages:
+  - build
+  - deploy
+
+services:
+  - docker:dind
+
+build-docker-image:
+  stage: build
+  only:
+    - /^(\d+)\.(\d+)\.(\d+)$/
+    - develop
+    - /^feature\/(.*)$/
+    - /^hotfix\/(.*)$/
+  script:
+    - docker run --rm mikesir87/aws-cli:latest aws ecr get-login --region us-west-2 --no-include-email | sh
+    - FEATURE=$(echo $CI_COMMIT_REF_NAME | sed 's;^\w*/;;' | sed 's;/;-;g')
+    - DOCKER_TAG=$(echo $CI_COMMIT_REF_NAME | sed 's;/;-;g')
+    - DOCKER_REF=$AWS_DOCKER_REGISTRY_URL/blockchain-terminal-ui:$DOCKER_TAG
+    - docker build --build-arg COMMIT=${CI_COMMIT_SHA} -t $DOCKER_REF -f deployment/Dockerfile .
+    - docker push $DOCKER_REF
+    - if [ $DOCKER_TAG != develop ]; then docker rmi $DOCKER_REF; fi
+
+apply-kubernetes-resources:
+  stage: deploy
+  image: pavelkhritonenko/aws-kubectl
+  only:
+    - /^feature\/(.*)$/
+    - /^hotfix\/(.*)$/
+  script:
+    - aws eks --region us-west-2 update-kubeconfig --name prod-bct-tools
+    - FEATURE=$(echo $CI_COMMIT_REF_NAME | sed 's;^\w*/;;' | sed 's;/;-;g')
+      DOCKER_TAG=$(echo $CI_COMMIT_REF_NAME | sed 's;/;-;g')
+      COMMIT=$CI_COMMIT_SHORT_SHA
+      DOCKER_REF=$AWS_DOCKER_REGISTRY_URL/blockchain-terminal-ui:$DOCKER_TAG
+      envtpl ./deployment/deployment.tpl.yaml | kubectl apply -f -
+    - (cd ./deployment && ./collectObsoleteDeployments.sh)
